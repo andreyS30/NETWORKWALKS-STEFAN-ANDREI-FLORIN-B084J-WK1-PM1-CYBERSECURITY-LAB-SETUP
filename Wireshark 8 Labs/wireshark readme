@@ -1,0 +1,46 @@
+Wireshark Labs — Network Traffic Analysis
+
+Project Overview
+
+Completed practical Wireshark labs as part of my NetworkWalks Cybersecurity Internship. These exercises helped me understand packet capture, network traffic analysis, TCP streams, and common security investigation techniques.
+
+Labs Completed
+
+Intro v2.1 — Introduction to Wireshark.
+
+Packet Capture 1 v1 — Lab 1 — Capturing network packets.
+
+PCAP Analysis v1 — Lab 2 — Analyzing packet capture files.
+
+Identify the Attacker IP v1 — Lab 3 — Investigating traffic to identify a potential attacker IP.
+
+Follow TCP Stream — Lab 4 — Following TCP communication.
+
+Follow TCP Stream, Part 2 — Lab 5 — Further TCP stream analysis.
+
+HTTP Plain Text Credentials — Lab 6 — Examining unencrypted HTTP traffic.
+
+Brute Force Catch — Lab 7 — Investigating traffic associated with brute-force activity.
+
+VoIP Call Replay — Lab 8 — Analyzing VoIP traffic.
+
+What I Learned
+
+Capturing and analyzing network packets.
+
+Investigating PCAP files and TCP streams.
+
+Understanding HTTP traffic and the risks of unencrypted credentials.
+
+Recognizing suspicious network activity.
+
+Exploring VoIP communications and network protocols.
+
+Conclusion
+
+These practical exercises strengthened my understanding of network protocols, packet analysis, and basic cybersecurity investigation using Wireshark.
+
+Author
+
+Stefan Andrei Florin
+Cybersecurity Intern · NetworkWalks · Week 1
